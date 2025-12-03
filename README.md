@@ -1,4 +1,4 @@
-# Olá, eu sou José Henrique Castro Andrade 👋
+# Olá, eu sou José Henrique👋
 
 ### Desenvolvedor Back-End | Entusiasta de Sistemas Embarcados 🚀 | Aspirante a Cientista de Dados
 
